@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend_isha/static/css/main.5bccf60f.css",
+    "main.js": "/frontend_isha/static/js/main.a95583f7.js",
+    "static/js/787.947c138f.chunk.js": "/frontend_isha/static/js/787.947c138f.chunk.js",
+    "index.html": "/frontend_isha/index.html",
+    "main.5bccf60f.css.map": "/frontend_isha/static/css/main.5bccf60f.css.map",
+    "main.a95583f7.js.map": "/frontend_isha/static/js/main.a95583f7.js.map",
+    "787.947c138f.chunk.js.map": "/frontend_isha/static/js/787.947c138f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bccf60f.css",
+    "static/js/main.a95583f7.js"
+  ]
+}
